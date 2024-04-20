@@ -1,4 +1,8 @@
 # BigMart-Sales-Analysis-and-Prediction-A-Regression-Project
+# Project: BigMart Sales Analysis and Prediction
+# A Regression Project
+# By Ibor Elvis, Data Scientist, Certified by MIT Schwarzman College of Computing
+(To verify this certificate visit verify.mygreatlearning.com/MKKOWHSQ)
 
 # Context
 In today's modern world, huge shopping centers such as big malls and marts are recording data related to sales of items or products as an important step to predict the sales and get an idea about future demands that can help with inventory management. Understanding what role certain properties of an item play and how they affect their sales is imperative to any retail business
